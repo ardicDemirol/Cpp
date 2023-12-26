@@ -1,0 +1,13 @@
+3 345
+Lisa Miller 890238 Y 4
+Mathematics MTH345 4 A
+Physics PHY357 3 B
+ComputerSci CSC478 3 B
+History HIS356 3 F
+Tony William 890247 Y 3
+Mathematics MTH345 4 A
+English ENG560 2 A
+Programming PRG120 4 C
+Dina Agile 890290 N 2
+History HIS356 3 F
+English ENG560 2 A
