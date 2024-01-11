@@ -1,0 +1,5 @@
+﻿  Head.cpp
+  HeaderFile.cpp
+  Generating Code...
+C:\Users\demro\OneDrive\Masaüstü\Mix\Coding\C++\HeaderFile\Head.cpp(8): warning C4715: 'GetUpper': not all control paths return a value
+  HeaderFile.vcxproj -> C:\Users\demro\OneDrive\Masaüstü\Mix\Coding\C++\HeaderFile\x64\Debug\HeaderFile.exe
