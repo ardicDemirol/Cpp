@@ -1,3 +1,0 @@
-Student ID: Ardıç Demirol
-Test scores:   40  45  55  80  90
-Average Note: 62.00
